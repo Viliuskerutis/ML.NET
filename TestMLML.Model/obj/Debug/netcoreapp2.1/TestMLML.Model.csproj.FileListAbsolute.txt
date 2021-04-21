@@ -1,0 +1,10 @@
+C:\Users\kerut\source\repos\TestML\TestMLML.Model\bin\Debug\netcoreapp2.1\MLModel.zip
+C:\Users\kerut\source\repos\TestML\TestMLML.Model\bin\Debug\netcoreapp2.1\TestMLML.Model.deps.json
+C:\Users\kerut\source\repos\TestML\TestMLML.Model\bin\Debug\netcoreapp2.1\TestMLML.Model.dll
+C:\Users\kerut\source\repos\TestML\TestMLML.Model\bin\Debug\netcoreapp2.1\TestMLML.Model.pdb
+C:\Users\kerut\source\repos\TestML\TestMLML.Model\obj\Debug\netcoreapp2.1\TestMLML.Model.csprojAssemblyReference.cache
+C:\Users\kerut\source\repos\TestML\TestMLML.Model\obj\Debug\netcoreapp2.1\TestMLML.Model.csproj.CoreCompileInputs.cache
+C:\Users\kerut\source\repos\TestML\TestMLML.Model\obj\Debug\netcoreapp2.1\TestMLML.Model.AssemblyInfoInputs.cache
+C:\Users\kerut\source\repos\TestML\TestMLML.Model\obj\Debug\netcoreapp2.1\TestMLML.Model.AssemblyInfo.cs
+C:\Users\kerut\source\repos\TestML\TestMLML.Model\obj\Debug\netcoreapp2.1\TestMLML.Model.dll
+C:\Users\kerut\source\repos\TestML\TestMLML.Model\obj\Debug\netcoreapp2.1\TestMLML.Model.pdb

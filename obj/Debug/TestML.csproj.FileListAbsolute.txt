@@ -1,0 +1,2 @@
+C:\Users\kerut\source\repos\TestML\obj\Debug\TestML.csprojAssemblyReference.cache
+C:\Users\kerut\source\repos\TestML\obj\Debug\TestML.csproj.CoreCompileInputs.cache

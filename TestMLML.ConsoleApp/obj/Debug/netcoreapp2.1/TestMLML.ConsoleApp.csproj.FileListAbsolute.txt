@@ -1,0 +1,15 @@
+C:\Users\kerut\source\repos\TestML\TestMLML.ConsoleApp\bin\Debug\netcoreapp2.1\MLModel.zip
+C:\Users\kerut\source\repos\TestML\TestMLML.ConsoleApp\bin\Debug\netcoreapp2.1\TestMLML.ConsoleApp.deps.json
+C:\Users\kerut\source\repos\TestML\TestMLML.ConsoleApp\bin\Debug\netcoreapp2.1\TestMLML.ConsoleApp.runtimeconfig.json
+C:\Users\kerut\source\repos\TestML\TestMLML.ConsoleApp\bin\Debug\netcoreapp2.1\TestMLML.ConsoleApp.runtimeconfig.dev.json
+C:\Users\kerut\source\repos\TestML\TestMLML.ConsoleApp\bin\Debug\netcoreapp2.1\TestMLML.ConsoleApp.dll
+C:\Users\kerut\source\repos\TestML\TestMLML.ConsoleApp\bin\Debug\netcoreapp2.1\TestMLML.ConsoleApp.pdb
+C:\Users\kerut\source\repos\TestML\TestMLML.ConsoleApp\bin\Debug\netcoreapp2.1\TestMLML.Model.dll
+C:\Users\kerut\source\repos\TestML\TestMLML.ConsoleApp\bin\Debug\netcoreapp2.1\TestMLML.Model.pdb
+C:\Users\kerut\source\repos\TestML\TestMLML.ConsoleApp\obj\Debug\netcoreapp2.1\TestMLML.ConsoleApp.csprojAssemblyReference.cache
+C:\Users\kerut\source\repos\TestML\TestMLML.ConsoleApp\obj\Debug\netcoreapp2.1\TestMLML.ConsoleApp.csproj.CoreCompileInputs.cache
+C:\Users\kerut\source\repos\TestML\TestMLML.ConsoleApp\obj\Debug\netcoreapp2.1\TestMLML.ConsoleApp.AssemblyInfoInputs.cache
+C:\Users\kerut\source\repos\TestML\TestMLML.ConsoleApp\obj\Debug\netcoreapp2.1\TestMLML.ConsoleApp.AssemblyInfo.cs
+C:\Users\kerut\source\repos\TestML\TestMLML.ConsoleApp\obj\Debug\netcoreapp2.1\TestMLML.ConsoleApp.csproj.CopyComplete
+C:\Users\kerut\source\repos\TestML\TestMLML.ConsoleApp\obj\Debug\netcoreapp2.1\TestMLML.ConsoleApp.dll
+C:\Users\kerut\source\repos\TestML\TestMLML.ConsoleApp\obj\Debug\netcoreapp2.1\TestMLML.ConsoleApp.pdb
